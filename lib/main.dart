@@ -6,7 +6,7 @@ void main() async{
  WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
        options:const FirebaseOptions(
-          apiKey: "AIzaSyCcCqr8KSehQQhDTUMbj2-x3wqqkEZ4py4",
+          apiKey: "xxxxxxxxxxxxxxxxxx4",
           projectId: "emailauth-d8120",
           appId: "1:406594082653:android:6a9bb2a5456ef458bd3ab4",
          messagingSenderId:"emailauth-d8120"
